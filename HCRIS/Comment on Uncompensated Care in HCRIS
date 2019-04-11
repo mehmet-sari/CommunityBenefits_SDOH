@@ -1,0 +1,10 @@
+### Calculation the Cost of Uncompensated Care in HCRIS
+
+Thanks to the detail instruction of CMS, it is easy to figure out how uncompensated care is calculated in CMS. 
+The regular calculation of uncompensated care in the literature is simply the sum of bad debt and charity care. The Cost report data provides Worksheet S-10 that includes data regarding uncompensated care. Here is the definition of uncompensated care stated in the instruction:
+
+> Uncompensated care consists of charity care, non-Medicare bad debt, and non-reimbursable
+Medicare bad debt. Uncompensated care does not include courtesy allowances, discounts given
+to patients that do not meet the hospital’s charity care policy, or discounts given to uninsured
+patients that do not meet the hospital's FAP, or bad debt reimbursed by Medicare.
+
